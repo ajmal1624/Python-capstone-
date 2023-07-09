@@ -92,7 +92,3 @@ The research attempts to identify the factors for a successful rocket landing. T
 * **Orbits:** ES-L1, GEO, HEO, and SSO have a 100% success rate
 * **Payload Mass:** Across all launch sites, the higher the payload mass (kg), the higher the success rate
 
-## Additional Things to Consider
-* **Dataset:** A larger dataset will help build on the predictive analytics results to help understand if the findings can be generalizable to a larger data set
-* **Feature Analysis / PCA:** Additional feature analysis or principal component analysis should be conducted to see if it can help improve accuracy
-* **XGBoost:** Is a powerful model which was not utilized in this study. It would be interesting to see if it outperforms the other classification models
